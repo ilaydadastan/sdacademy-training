@@ -62,11 +62,11 @@ print(my_data == your_data)
 
 
 
+a = 5
+print(a)
 
+n = float(a)
 
-
-
-
-
-
+print(n)
+print(type(n))
 
