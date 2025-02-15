@@ -4,7 +4,6 @@ this module contains clean code examples
 """
 
 
-
 book_title = "Book title"
 book_price = 20
 # this is for calculate total price with tax
@@ -56,7 +55,6 @@ except ZeroDivisionError:
     print("you can not divide by zero!")
 
 
-
 # bad example
 def process_order(order):
     total = 0
@@ -97,6 +95,7 @@ def process_scores(scores):
                 print("Passed")
         else:
             print("Failed")
+
 
 # good example
 def process_scores(scores):
