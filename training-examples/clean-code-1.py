@@ -112,13 +112,19 @@ def process_scores(scores):
         print("Excellent")
 
 
+def plan_birthday_party():
+    print("Ordering cake")
+    print("Sending invitations")
+    print("Preparing decorations")
+    print("Getting gifts")
 
 
+def order_cake():
+    print("Ordering cake")
 
 
-
-
-
+def send_invitations():
+    print("Sending invitations")
 
 
 
