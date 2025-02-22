@@ -32,6 +32,8 @@ Allow the user to deposit or withdraw money, and update the balance accordingly.
 Handle invalid inputs and ensure sufficient funds for withdrawals.
 
 """
+
+
 def atm_system():
     pin = "1234"  # Hardcoded pin
     balance = 1000  # Starting balance

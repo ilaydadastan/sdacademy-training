@@ -40,7 +40,6 @@ def atm_pin_verification():
                 break
 
 
-# Directly calling the function without using __name__ check
 atm_pin_verification()
 
 
